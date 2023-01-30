@@ -1,0 +1,10 @@
+Username: NgoManhSon
+Email: ngomanhson2004txpt@gmail.com
+password: Ngomanhson2310
+
+//Tạo mới
+django-admin startproject tenproject
+django-admin startapp ten
+
+python manage.py migrate
+python manage.py runserver
